@@ -1,0 +1,49 @@
+{
+  "term": "Fall",
+  "year": "2014",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ],
+    [
+      "Mathematics",
+      "Discrete Mathematics"
+    ]
+  ],
+  "legacy_uid": "2986e8ea-9382-68f8-20a0-ae7393776f0f",
+  "instructors": {
+    "content": [
+      "2610b242-4fee-0a77-c54a-fefd3c74da45"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "34e26b8c-8cb1-4f7c-42b1-8b1384814d01",
+    "website": "18-314-combinatorial-analysis-fall-2014"
+  },
+  "course_title": "Combinatorial Analysis",
+  "hide_download": true,
+  "course_description": "This course analyzes combinatorial problems and methods for their solution. Topics include: enumeration, generating functions, recurrence relations, construction of bijections, introduction to graph theory, network algorithms, and extremal combinatorics.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.314",
+  "course_image_thumbnail": {
+    "content": "d51e5934-8f7d-280b-5579-89770e2dbdda",
+    "website": "18-314-combinatorial-analysis-fall-2014"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Exams with Solutions",
+    "Problem Sets"
+  ],
+  "site_uid": "33e1fffe-7b92-4b86-bd57-1a86ba40974b",
+  "site_short_id": "18.314-fall-2014",
+  "site_url_path": "courses/18-314-combinatorial-analysis-fall-2014",
+  "title": "Course Metadata"
+}

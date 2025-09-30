@@ -1,0 +1,83 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: a144081c-57c2-fd00-cb13-4a1ef9c05df2
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 29729bc5-9af5-51b1-9ba7-44c6c34a9cf5
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 35d3b2c8-bd32-f77a-8ee2-0eb1252d9d33
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: 88f36882-0870-1a5b-07ed-2e929d68ddce
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 40
+- identifier: 6ba0cf8b-6586-6d5a-eef4-89f2b68870a1
+  name: Problem Set 1
+  pageRef: /pages/assignments/problem-set-1
+  parent: 88f36882-0870-1a5b-07ed-2e929d68ddce
+  weight: 50
+- identifier: bed7a78a-959d-8750-bfb4-e612fe935cc3
+  name: Problem Set 2
+  pageRef: /pages/assignments/problem-set-2
+  parent: 88f36882-0870-1a5b-07ed-2e929d68ddce
+  weight: 60
+- identifier: a8d591d8-47e6-c6f6-4035-033ffc974248
+  name: Problem Set 3
+  pageRef: /pages/assignments/problem-set-3
+  parent: 88f36882-0870-1a5b-07ed-2e929d68ddce
+  weight: 70
+- identifier: d743ea48-ec60-6204-8250-ba8da4aedc3d
+  name: Problem Set 4
+  pageRef: /pages/assignments/problem-set-4
+  parent: 88f36882-0870-1a5b-07ed-2e929d68ddce
+  weight: 80
+- identifier: 6459c98d-d328-f7b3-f8bb-0b1761de8e42
+  name: Problem Set 5
+  pageRef: /pages/assignments/problem-set-5
+  parent: 88f36882-0870-1a5b-07ed-2e929d68ddce
+  weight: 90
+- identifier: 8b6ade4c-4ff9-e21d-f8d8-b9edc0c51f51
+  name: Problem Set 6
+  pageRef: /pages/assignments/problem-set-6
+  parent: 88f36882-0870-1a5b-07ed-2e929d68ddce
+  weight: 100
+- identifier: cff149ed-cd85-f47e-d1ab-bc1193f10c61
+  name: Problem Set 7
+  pageRef: /pages/assignments/problem-set-7
+  parent: 88f36882-0870-1a5b-07ed-2e929d68ddce
+  weight: 110
+- identifier: d79065de-b3ec-e190-b0f6-ecff98e8ba65
+  name: Problem Set 8
+  pageRef: /pages/assignments/problem-set-8
+  parent: 88f36882-0870-1a5b-07ed-2e929d68ddce
+  weight: 120
+- identifier: 47ef9d22-fb24-23af-f12d-d1ca0790e514
+  name: Problem Set 9
+  pageRef: /pages/assignments/problem-set-9
+  parent: 88f36882-0870-1a5b-07ed-2e929d68ddce
+  weight: 130
+- identifier: c5c6dfc0-f2c1-bd15-8348-48d1e70bb5be
+  name: Problem Set 10
+  pageRef: /pages/assignments/problem-set-10
+  parent: 88f36882-0870-1a5b-07ed-2e929d68ddce
+  weight: 140
+- identifier: e24e2ff9-fc53-2152-ee87-2bd9cadd814a
+  name: Problem Set 11
+  pageRef: /pages/assignments/problem-set-11
+  parent: 88f36882-0870-1a5b-07ed-2e929d68ddce
+  weight: 150
+- identifier: 0819bd6c-381a-eaca-050c-e7889adfc1c5
+  name: Problem Set 12
+  pageRef: /pages/assignments/problem-set-12
+  parent: 88f36882-0870-1a5b-07ed-2e929d68ddce
+  weight: 160
+- identifier: f0a576c6-f66a-f323-0751-561493e775d5
+  name: Exams
+  pageRef: /pages/exams
+  weight: 170
